@@ -1,0 +1,8 @@
+# Created by .ignore support plugin (hsz.mobi)
+configclient/target
+configserver/target
+eurekaclient/target
+eurekaserver/target
+servicefeign/target
+serviceribbon/target
+servicezuul/target
