@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/configclient/configclient.iml" filepath="$PROJECT_DIR$/configclient/configclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/configserver/configserver.iml" filepath="$PROJECT_DIR$/configserver/configserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaclient/eurekaclient.iml" filepath="$PROJECT_DIR$/eurekaclient/eurekaclient.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver/eurekaserver.iml" filepath="$PROJECT_DIR$/eurekaserver/eurekaserver.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hellocloud.iml" filepath="$PROJECT_DIR$/hellocloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/servicezuul/servicezuul.iml" filepath="$PROJECT_DIR$/servicezuul/servicezuul.iml" />
+    </modules>
+  </component>
+</project>
