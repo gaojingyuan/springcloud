@@ -15,6 +15,7 @@
         <option value="$PROJECT_DIR$/servicezuul/pom.xml" />
         <option value="$PROJECT_DIR$/configserver/pom.xml" />
         <option value="$PROJECT_DIR$/configclient/pom.xml" />
+        <option value="$PROJECT_DIR$/configeurekaserver/pom.xml" />
       </list>
     </option>
   </component>

@@ -3,7 +3,7 @@ eureka:
     serviceUrl:
       defaultZone: http://localhost:8888/eureka/
 server:
-  port: 8002
+  port: 8001
 spring:
   application:
     name: service-yuan

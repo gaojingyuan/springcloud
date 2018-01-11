@@ -5,10 +5,16 @@ spring:
     config:
       server:
         git:
+#          uri: https://github.com/forezp/SpringcloudConfig/
+#          searchPaths: respo
           uri: https://github.com/gaojingyuan/springcloud
           searchPaths: config
           username:
           password:
       label: master
 server:
-  port: 8010
+  port: 8011
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8889/eureka/
