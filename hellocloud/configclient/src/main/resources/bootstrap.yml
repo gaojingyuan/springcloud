@@ -14,7 +14,7 @@ spring:
 #    username:
 #    password:
 server:
-  port: 8012
+  port: 8013
 eureka:
   client:
     serviceUrl:
