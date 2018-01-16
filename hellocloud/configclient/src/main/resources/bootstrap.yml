@@ -8,6 +8,11 @@ spring:
       discovery:
         enabled: true
         serviceId: config-server
+  rabbitmq:
+    host: localhost
+    port: 5672
+#    username:
+#    password:
 server:
   port: 8012
 eureka:
