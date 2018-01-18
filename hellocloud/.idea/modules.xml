@@ -11,6 +11,9 @@
       <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceribbon.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicezuul/servicezuul.iml" filepath="$PROJECT_DIR$/servicezuul/servicezuul.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuthzipkina/sleuthzipkina.iml" filepath="$PROJECT_DIR$/sleuthzipkina/sleuthzipkina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuthzipkinb/sleuthzipkinb.iml" filepath="$PROJECT_DIR$/sleuthzipkinb/sleuthzipkinb.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sleuthzipkinserver/sleuthzipkinserver.iml" filepath="$PROJECT_DIR$/sleuthzipkinserver/sleuthzipkinserver.iml" />
     </modules>
   </component>
 </project>

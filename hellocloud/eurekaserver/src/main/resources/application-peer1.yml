@@ -1,0 +1,12 @@
+server:
+  port: 8899
+
+spring:
+  profiles: peer1
+eureka:
+  instance:
+    hostname: peer1
+    preferIpAddress: true
+  client:
+    serviceUrl:
+      defaultZone: http://peer2:9988/eureka/,http://peer3:9999/eureka/

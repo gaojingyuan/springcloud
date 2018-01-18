@@ -1,0 +1,7 @@
+server:
+  port: 8022
+spring:
+  zipkin:
+    base-url: http://localhost:8020
+  application:
+    name: service-miya
