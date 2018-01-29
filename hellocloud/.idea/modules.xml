@@ -10,6 +10,7 @@
       <module fileurl="file://$PROJECT_DIR$/hellocloud.iml" filepath="$PROJECT_DIR$/hellocloud.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicefeign/servicefeign.iml" filepath="$PROJECT_DIR$/servicefeign/servicefeign.iml" />
       <module fileurl="file://$PROJECT_DIR$/serviceribbon/serviceribbon.iml" filepath="$PROJECT_DIR$/serviceribbon/serviceribbon.iml" />
+      <module fileurl="file://$PROJECT_DIR$/serviceturbine/serviceturbine.iml" filepath="$PROJECT_DIR$/serviceturbine/serviceturbine.iml" />
       <module fileurl="file://$PROJECT_DIR$/servicezuul/servicezuul.iml" filepath="$PROJECT_DIR$/servicezuul/servicezuul.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuthzipkina/sleuthzipkina.iml" filepath="$PROJECT_DIR$/sleuthzipkina/sleuthzipkina.iml" />
       <module fileurl="file://$PROJECT_DIR$/sleuthzipkinb/sleuthzipkinb.iml" filepath="$PROJECT_DIR$/sleuthzipkinb/sleuthzipkinb.iml" />

@@ -8,8 +8,8 @@
     <file url="file://$PROJECT_DIR$/eurekaserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicefeign" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/serviceribbon" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/serviceturbine" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/servicezuul" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/sleuthserver" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sleuthzipkina" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sleuthzipkinb" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/sleuthzipkinserver" charset="UTF-8" />
