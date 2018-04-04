@@ -25,6 +25,7 @@
       <module name="configclient" target="1.8" />
       <module name="configeurekaserver" target="1.8" />
       <module name="configserver" target="1.8" />
+      <module name="demo" target="1.8" />
       <module name="eurekaclient" target="1.8" />
       <module name="eurekaserver" target="1.8" />
       <module name="hellocloud" target="1.5" />

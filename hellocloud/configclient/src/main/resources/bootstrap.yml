@@ -1,8 +1,7 @@
 spring:
-  application:
-    name: config-client
   cloud:
     config:
+      name: config-client
       label: master
       profile: development
       discovery:
@@ -13,8 +12,6 @@ spring:
     port: 5672
 #    username:
 #    password:
-server:
-  port: 8013
 eureka:
   client:
     serviceUrl:
@@ -22,7 +19,6 @@ eureka:
 management:
   security:
     enabled: false
-
 
 
 

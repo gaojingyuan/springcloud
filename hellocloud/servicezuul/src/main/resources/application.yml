@@ -11,7 +11,7 @@ zuul:
   routes:
     api-a:
       path: /api-a/**
-      serviceId: service-ribbon
+      serviceId: service-yuan
     api-b:
       path: /api-b/**
       serviceId: service-feign

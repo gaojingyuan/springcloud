@@ -17,7 +17,6 @@ public class SleuthzipkinaApplication {
         SpringApplication.run(SleuthzipkinaApplication.class, args);
     }
 
-
     @Autowired
     private RestTemplate restTemplate;
 
