@@ -10,9 +10,18 @@ spring:
           username:
           password:
       label: master
+  rabbitmq:
+    host: localhost
+    port: 5672
+#    username:
+#    password:
 server:
   port: 8010
 eureka:
   client:
     serviceUrl:
       defaultZone: http://localhost:8889/eureka/
+management:
+  security:
+    enabled: false
+
