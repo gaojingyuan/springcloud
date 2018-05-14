@@ -2,6 +2,6 @@ server:
   port: 8021
 spring:
   zipkin:
-    base-url: http://localhost:8020
+    base-url: http://localhost:9000
   application:
     name: service-hi

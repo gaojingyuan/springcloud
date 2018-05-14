@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: test-config
+server:
+  port: 8012

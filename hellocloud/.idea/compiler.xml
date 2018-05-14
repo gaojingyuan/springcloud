@@ -9,6 +9,7 @@
         <module name="configclient" />
         <module name="configeurekaserver" />
         <module name="configserver" />
+        <module name="demo" />
         <module name="eurekaclient" />
         <module name="eurekaserver" />
         <module name="hellocloud" />
